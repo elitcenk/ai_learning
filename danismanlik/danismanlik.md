@@ -1,62 +1,76 @@
-## Danışmanlık Sözleşmesi
+# Yapay Zeka Eğitimi ve Danışmanlık Sözleşmesi
 
-**Taraflar:**
-
-Bu sözleşme, aşağıdaki taraflar arasında işbu tarih itibarıyla yürürlüğe girer:
+## Taraflar:
 
 **Danışman:**
-[Danışmanın Adı]  
+[Danışmanın Adı ve Soyadı]  
+[Danışmanın Şirket Adı (varsa)]  
 [Danışmanın Adresi]  
 [Danışmanın E-posta Adresi]  
 [Danışmanın Telefon Numarası]
 
 **Müşteri:**
-[Müşterinin Adı]  
+[Müşterinin Adı ve Soyadı]  
+[Müşterinin Şirket Adı (varsa)]  
 [Müşterinin Adresi]  
 [Müşterinin E-posta Adresi]  
 [Müşterinin Telefon Numarası]
 
-**Sözleşme Maddeleri:**
+## Konu:
+Bu sözleşme, yapay zeka eğitimi ve danışmanlık hizmetleri ile ilgili olarak Danışman ile Müşteri arasında yapılmıştır.
 
-1. **Kapsam:**
-   1.1 Danışman, Müşteriye yapay zeka projesi konusunda danışmanlık hizmeti sağlayacaktır.
-   1.2 Danışmanlık hizmetleri, proje yazımı, uygulamanın geliştirilmesi, veri analizi ve benzeri alanları kapsar.
+## Eğitim İçeriği ve Süresi:
+- Eğitim, yapay zeka ve makine öğrenimi konularını içerecek olup, toplamda 12 hafta sürecektir.
+- Eğitim kapsamında şu konular işlenecektir:
+   - Derin Öğrenme (2 hafta)
+   - Doğal Dil İşleme (NLP) (2 hafta)
+   - Unsupervised Learning (2 hafta)
+   - Supervised Learning (2 hafta)
+   - Diğer Yapay Zeka Konuları (4 hafta)
+- Eğitim süresi boyunca haftada 2 gün, her gün 4 saatlik dersler gerçekleştirilecektir.
 
-2. **Hizmetlerin Sağlanması:**
-   2.1 Danışman, belirlenen süre içinde gereken hizmetleri sağlamakla yükümlüdür.
-   2.2 Müşteri, projenin zamanında tamamlanması için gerekli olan tüm bilgi ve kaynakları sağlayacaktır.
+## Eğitim Ücreti:
+- Eğitim ücreti, toplamda [eğitim ücreti miktarı] tutarında olup, KDV hariçtir.
+- Ödeme, eğitimin başlangıcından önce [ödeme şekli ve tarihleri] tarihleri arasında yapılacaktır.
 
-3. **Ücret:**
-   3.1 Müşteri, Danışmana proje danışmanlığı hizmetleri için belirtilen ücreti ödeyecektir.
-   3.2 Ücret, proje başına veya saatlik olarak belirlenebilir ve taraflar arasında mutabakatla belirlenir.
+## Eğitim Malzemeleri:
+- Danışman, eğitim süresince gerekli ders notlarını, sunumları ve diğer materyalleri sağlayacaktır.
+- Müşteri, bu materyalleri sadece eğitim amacıyla kullanabilecektir.
 
-4. **Gizlilik:**
-   4.1 Taraflar, bu sözleşme kapsamında paylaşılan tüm bilgilerin gizli kalacağını kabul eder.
-   4.2 Taraflar, diğer tarafın yazılı izni olmadan projeye ilişkin herhangi bir bilgiyi üçüncü şahıslarla paylaşmayacak veya ifşa etmeyecektir.
+## Danışmanlık Hizmetleri:
+- Eğitim sonunda, Müşteri'nin yapay zeka projesinde danışmanlık hizmeti sağlanacaktır.
+- Danışmanlık süresi ve kapsamı, ayrı bir anlaşma ile belirlenecektir.
 
-5. **Süre ve Sonlandırma:**
-   5.1 Sözleşmenin süresi, başlangıç tarihinden itibaren belirlenen süre boyunca devam eder.
-   5.2 Taraflardan herhangi biri, yazılı bildirimde bulunmak suretiyle sözleşmeyi sonlandırabilir.
+## İptal ve İade Politikası:
+- Eğitim başladıktan sonra iptal edilmesi durumunda herhangi bir iade yapılmayacaktır.
+- Eğitim öncesinde yapılan iptallerde, ödemenin %50'si iade edilecektir.
 
-6. **Yükümlülükler:**
-   6.1 Her iki taraf da işbu sözleşmeden doğan yükümlülüklerini dürüstlük ve iyi niyetle yerine getirmeyi kabul eder.
-   6.2 Danışman, sağlanan hizmetlerin niteliği ve zamanlaması konusunda Müşteriyi düzenli olarak bilgilendirecektir.
+## Gizlilik ve Veri Güvenliği:
+- Taraflar, eğitim ve danışmanlık sürecinde elde edilen tüm bilgileri gizli tutacak ve üçüncü şahıslarla paylaşmayacaktır.
+- Veri güvenliği ile ilgili olarak gerekli tüm önlemler alınacaktır.
 
-7. **Uygulanabilirlik:**
-   7.1 Bu sözleşme, tarafların yazılı onayı olmadan herhangi bir şekilde devredilemez veya alt yükleniciye devredilemez.
+## Fikri Mülkiyet Hakları:
+- Danışman tarafından sağlanan tüm eğitim materyalleri ve danışmanlık raporları Danışmanın mülkiyetinde kalacaktır.
+- Müşteri, bu materyalleri sadece eğitim ve danışmanlık hizmeti için kullanabilecektir.
 
-**İmzalar:**
+## Sorumluluk ve Garantiler:
+- Danışman, eğitim ve danışmanlık hizmetlerini profesyonel bir şekilde sunacağını ve gerekli özeni göstereceğini taahhüt eder.
+- Taraflar, hizmetlerin sonuçlarından dolayı birbirlerine karşı sorumlu tutulamaz.
 
-Bu sözleşme, taraflar arasında tamamen anlaşma sağlandığına dair bir kanıt olarak imzalanmıştır.
+## Uyuşmazlıkların Çözümü:
+- Taraflar arasındaki uyuşmazlıklar, öncelikle müzakere yoluyla çözülmeye çalışılacaktır.
+- Müzakere ile çözülemeyen uyuşmazlıklar, [belirlenen yetkili mahkeme] mahkemelerinde çözülecektir.
+
+## Diğer Hükümler:
+- Bu sözleşme, tarafların karşılıklı mutabakatı ile değiştirilebilir.
+- Sözleşmenin herhangi bir hükmünün geçersiz olması, diğer hükümleri geçersiz kılmaz.
+
+**Tarafların İmzaları:**
 
 **Danışman:**
-
-İmza: _________________________
-
-Tarih: _________________________
+______________________  
+[Tarih]
 
 **Müşteri:**
-
-İmza: _________________________
-
-Tarih: _________________________
+______________________  
+[Tarih]

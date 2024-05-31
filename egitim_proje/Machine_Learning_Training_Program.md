@@ -6,7 +6,7 @@ Katılımcıların makine öğrenimi ve derin öğrenme alanlarında temel ve il
 Toplam 12 hafta sürecek. Haftada 2 gün, her gün 4 saatlik derslerle toplamda 96 saatlik bir eğitim sürecini kapsayacak.
 
 ## Katılımcı Sayısı:
-Her ders için maksimum 6 katılımcı.
+Her ders için maksimum 10 katılımcı.
 
 ## Eğitim İçeriği:
 # Yapay Zeka ve Makine Öğrenimi Eğitimi Planı
